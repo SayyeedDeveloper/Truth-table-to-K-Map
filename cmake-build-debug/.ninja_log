@@ -1,0 +1,13 @@
+# ninja log v6
+1	50	1731855263659826258	CMakeFiles/Final_project.dir/main.c.o	9095c4ebe503b9c0
+50	94	1731855263709330633	Final_project	79d3eefa7aaf6ec6
+1	236	1731855832606653858	CMakeFiles/Final_project.dir/main.c.o	9095c4ebe503b9c0
+237	377	1731855832841846513	Final_project	79d3eefa7aaf6ec6
+2	256	1731856242954860266	CMakeFiles/Final_project.dir/main.c.o	9095c4ebe503b9c0
+256	391	1731856243209047875	Final_project	79d3eefa7aaf6ec6
+3	177	1731856588347625222	CMakeFiles/Final_project.dir/main.c.o	9095c4ebe503b9c0
+177	293	1731856588521683710	Final_project	79d3eefa7aaf6ec6
+2	58	1731856684429893463	CMakeFiles/Final_project.dir/main.c.o	9095c4ebe503b9c0
+59	107	1731856684485940832	Final_project	79d3eefa7aaf6ec6
+2	174	1731857209122654274	CMakeFiles/Final_project.dir/main.c.o	9095c4ebe503b9c0
+174	289	1731857209294798063	Final_project	79d3eefa7aaf6ec6
